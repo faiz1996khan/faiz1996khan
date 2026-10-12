@@ -6,4 +6,4 @@ Focused on **Full Stack Development, AWS, Distributed Systems, and AI Engineerin
 
 ### ⚡ Core Skills
 
-**TypeScript · Node.js · React · Angular · AWS · PostgreSQL · Docker · Terraform · GitHub Actions · Microservices · AI Agents · MCP · RAG**
+**TypeScript · Node.js · React · Angular · AWS · PostgreSQL · Python · Docker · Terraform · GitHub Actions · Microservices · AI Agents · MCP · RAG**
